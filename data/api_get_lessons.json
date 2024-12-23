@@ -1,19 +1,18 @@
 {
-    "data": [
-      {
-        "lessonId": "1",
-        "lessonTitle": "The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU",
-        "lessonType": "video",
-        "lessonThumbnailImageUrl": "https://static.wixstatic.com/media/49eefe_f756e5c94dea403188a492e9e290b351~mv2.jpg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/49eefe_f756e5c94dea403188a492e9e290b351~mv2.jpg",
-        "lessonDeepLinkPath": "https://www.youtube.com/watch?v=w-HYZv6HzAs"
-      },
-      {
-        "lessonId": "2",
-        "lessonTitle": "Practice speaking with me - Job Interview in English",
-        "lessonType": "video",
-        "lessonThumbnailImageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fielc.co.id%2Fen%2Fwant-to-ace-your-job-interview-in-english-let-us-help%2F&psig=AOvVaw2DghWZi1Evhz2BgM96hyfl&ust=1735049800926000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD9962KvooDFQAAAAAdAAAAABAE",
-        "lessonDeepLinkPath": "https://www.youtube.com/watch?v=Ln_3AVoBRLk"
-      }
-    ]
-  }
-  
+  "data": [
+    {
+      "lessonId": "1",
+      "lessonTitle": "The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU",
+      "lessonType": "video",
+      "lessonThumbnailImageUrl": "https://static.wixstatic.com/media/49eefe_f756e5c94dea403188a492e9e290b351~mv2.jpg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/49eefe_f756e5c94dea403188a492e9e290b351~mv2.jpg",
+      "lessonDeepLinkPath": "https://www.youtube.com/watch?v=w-HYZv6HzAs"
+    },
+    {
+      "lessonId": "2",
+      "lessonTitle": "Practice speaking with me - Job Interview in English",
+      "lessonType": "video",
+      "lessonThumbnailImageUrl": "https://ielc.co.id/wp-content/uploads/2021/07/job-interview-ielc.jpg",
+      "lessonDeepLinkPath": "https://www.youtube.com/watch?v=Ln_3AVoBRLk"
+    }
+  ]
+}
